@@ -8,6 +8,7 @@ import HomeSection from './componenets/HomeSection.jsx';
 import ContactUs from './componenets/ContactUs.jsx';
 import Services from './componenets/Services.jsx';
 import Laravel from './componenets/Laravel.jsx';
+import PHP from './componenets/PHP.jsx';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -16,6 +17,7 @@ const router = createBrowserRouter(
       <Route path="contact" element={<ContactUs />} />
       <Route path="services" element={<Services />} />
       <Route path="services/laravel" element={<Laravel />} />
+      <Route path="services/php" element={<PHP />} />
     </Route>
   )
 );

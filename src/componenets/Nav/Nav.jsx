@@ -37,7 +37,7 @@ export default function DesktopNav() {
         icon: <FaShoppingCart className="mb-2 h-6 w-6" />,
         items: [
           { label: 'Laravel E-commerce development', to: '/services/laravel' },
-          { label: 'PHP E-commerce development', to: '/services/PHP' },
+          { label: 'PHP E-commerce development', to: '/services/php' },
           { label: 'WordPress E-commerce Development', to: '/services/WordPress' },
           { label: 'Shopify Development', to: '/services/Shopify' },
         ],
