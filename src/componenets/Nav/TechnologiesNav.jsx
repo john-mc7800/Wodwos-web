@@ -30,29 +30,29 @@ export default function DesktopNav() {
       {
         items: [
           { logo: 'healthlogo.png', label: 'iOS Developers', to: '/ios-developers' },
-          { logo: 'healthlogo.png', label: 'Android Developers', to: '/' },
-          { logo: 'healthlogo.png', label: 'Node.js Developers', to: '/' },
+          { logo: 'healthlogo.png', label: 'Android Developers', to: '/a' },
+          { logo: 'healthlogo.png', label: 'Node.js Developers', to: '/a' },
         ],
       },
       {
         items: [
-          { logo: 'healthlogo.png', label: 'Blockchain Developers', to: '/' },
-          { logo: 'healthlogo.png', label: 'TypeScript Developers', to: '/' },
-          { logo: 'healthlogo.png', label: 'MEAN Stack Developers', to: '/' },
+          { logo: 'healthlogo.png', label: 'Blockchain Developers', to: '/a' },
+          { logo: 'healthlogo.png', label: 'TypeScript Developers', to: '/a' },
+          { logo: 'healthlogo.png', label: 'MEAN Stack Developers', to: '/a' },
         ],
       },
       {
         items: [
-          { logo: 'healthlogo.png', label: 'MERN Stack Developers', to: '/' },
-          { logo: 'healthlogo.png', label: 'Python Developers', to: '/' },
-          { logo: 'healthlogo.png', label: 'Mobile Application Developers', to: '/' },
+          { logo: 'healthlogo.png', label: 'MERN Stack Developers', to: '/a' },
+          { logo: 'healthlogo.png', label: 'Python Developers', to: '/a' },
+          { logo: 'healthlogo.png', label: 'Mobile Application Developers', to: '/a' },
         ],
       },
       {
         items: [
-          { logo: 'healthlogo.png', label: 'WordPress Developers', to: '/' },
-          { logo: 'healthlogo.png', label: 'React.js Developers', to: '/' },
-          { logo: 'healthlogo.png', label: 'Node.js Developers', to: '/' },
+          { logo: 'healthlogo.png', label: 'WordPress Developers', to: '/a' },
+          { logo: 'healthlogo.png', label: 'React.js Developers', to: '/a' },
+          { logo: 'healthlogo.png', label: 'Node.js Developers', to: '/a' },
         ],
       },
     ],
